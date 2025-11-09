@@ -1,2 +1,14 @@
-# open-forum
-A public space for our community to share ideas, ask questions, and discuss topics related to our projects. Everyone is welcome to participate and contribute constructively.
+# Open Forum
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Welcome+to+the+Open+Forum!;Ask+questions,+share+ideas,+connect!)](https://git.io/typing-svg)
+
+A place for the community to ask questions, share ideas, and discuss everything related to our or your projects.
+
+>  **Community Guidelines:** Be respectful and stay on topic.
+
+---
+
+## 🌸 Get Started
+1. Check the [Discussions](../../discussions) tab.
+2. Create a new topic or join an existing one.
+3. Be kind and constructive.
