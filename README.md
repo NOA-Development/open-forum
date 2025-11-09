@@ -8,7 +8,7 @@ A place for the community to ask questions, share ideas, and discuss everything 
 
 ---
 
-## 🌸 Get Started
+## Get Started
 1. Check the [Discussions](../../discussions) tab.
 2. Create a new topic or join an existing one.
 3. Be kind and constructive.
