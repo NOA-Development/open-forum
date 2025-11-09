@@ -1,4 +1,4 @@
-# Open Forum
+# Open Forum ![GitHub Octopus](./github-octopuss.gif)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?lines=Welcome+to+the+Open+Forum!;Ask+questions,+share+ideas,+connect!)](https://git.io/typing-svg)
 
